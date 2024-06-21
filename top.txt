@@ -1,0 +1,4 @@
+Bob: 9/10
+Armen: 7/10
+Player: 4/10
+Player: 1/10
